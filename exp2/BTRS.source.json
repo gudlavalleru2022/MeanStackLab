@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67777a41abeee5e0c0b7f3e6"
+  },
+  "startDate": "23/12/2022",
+  "startTime": "9.00pm",
+  "sourceCity": "machilipatnam"
+},
+{
+  "_id": {
+    "$oid": "67777a41abeee5e0c0b7f3e7"
+  },
+  "startDate": "21/11/2021",
+  "startTime": "10.00pm",
+  "sourceCity": "hyderabad"
+},
+{
+  "_id": {
+    "$oid": "67777a41abeee5e0c0b7f3e8"
+  },
+  "startDate": "3/10/2021",
+  "startTime": "7.00Am",
+  "sourceCity": "kurnool"
+}]

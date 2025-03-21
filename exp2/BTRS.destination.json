@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67777a57abeee5e0c0b7f3e9"
+  },
+  "endDate": "3/2/2022",
+  "endTime": "1.00pm",
+  "destinationCity": "machilipatnam"
+},
+{
+  "_id": {
+    "$oid": "67777a57abeee5e0c0b7f3ea"
+  },
+  "endDate": "1/9/2023",
+  "endTime": "10.30Am",
+  "destinationCity": "bhimavaram"
+},
+{
+  "_id": {
+    "$oid": "67777a57abeee5e0c0b7f3eb"
+  },
+  "endDate": "13/9/2021",
+  "endTime": "11.00Am",
+  "destinationCity": "vizag"
+}]

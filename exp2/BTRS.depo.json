@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "677779eaabeee5e0c0b7f3e0"
+  },
+  "depoId": "dAp0866",
+  "deponame": "gajuvakadepo",
+  "location": "ameerpet",
+  "busId": "b998",
+  "owner": "sandeesh"
+},
+{
+  "_id": {
+    "$oid": "677779eaabeee5e0c0b7f3e1"
+  },
+  "depoId": "dspp0878",
+  "deponame": "gunthagal",
+  "location": "kurnool",
+  "busId": "b018",
+  "owner": "praneeth"
+},
+{
+  "_id": {
+    "$oid": "677779eaabeee5e0c0b7f3e2"
+  },
+  "depoId": "dAp0916",
+  "deponame": "MGBS",
+  "location": "mgbs",
+  "busId": "b198",
+  "owner": "srinu"
+}]

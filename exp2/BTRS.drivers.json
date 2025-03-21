@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "67737f3aa7e16c882506dadf"
+  },
+  "driver": "d111",
+  "busID": "b7761",
+  "drivername": "ramesh",
+  "driverpno": 3.8333333333333335
+},
+{
+  "_id": {
+    "$oid": "67737f3aa7e16c882506dae0"
+  },
+  "driver": "d888",
+  "busID": "b0769",
+  "drivername": "vk",
+  "driverpno": "20/5"
+},
+{
+  "_id": {
+    "$oid": "6773849c9e106adca83cb183"
+  },
+  "driver_id": "d123",
+  "driver_name": "deva",
+  "bus_id": "d13"
+},
+{
+  "_id": {
+    "$oid": "6773849c9e106adca83cb184"
+  },
+  "driver_id": "d32",
+  "driver_name": "devara",
+  "bus_id": "d5y6"
+},
+{
+  "_id": {
+    "$oid": "6773849c9e106adca83cb185"
+  },
+  "driver_id": "d2354",
+  "driver_name": "salaar devaratha",
+  "bus_id": "d23"
+},
+{
+  "_id": {
+    "$oid": "677778eeabeee5e0c0b7f3d8"
+  },
+  "driverId": "d887",
+  "busId": "b7765",
+  "drivername": "rambabu",
+  "driverpno": "23/6"
+},
+{
+  "_id": {
+    "$oid": "677778eeabeee5e0c0b7f3d9"
+  },
+  "driverId": "d088",
+  "busId": "b0765",
+  "drivername": "lokhnath",
+  "driverpno": "65-90"
+},
+{
+  "_id": {
+    "$oid": "677778eeabeee5e0c0b7f3da"
+  },
+  "driverId": "d65",
+  "busId": "b507",
+  "drivername": "subbarao",
+  "driverpno": "20/6"
+}]

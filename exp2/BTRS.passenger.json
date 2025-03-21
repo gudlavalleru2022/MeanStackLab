@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "67777991abeee5e0c0b7f3de"
+  },
+  "pId": "p99",
+  "busno": "ap14Ay2232",
+  "pname": "sandeesh",
+  "age": 21,
+  "gender": "male",
+  "phno": "9122367601",
+  "address": "gajuvaka,khaza",
+  "source": "machilipatnam",
+  "destination": "nellore",
+  "ticketcost": 3000,
+  "seatnumber": "sl77"
+},
+{
+  "_id": {
+    "$oid": "67777991abeee5e0c0b7f3df"
+  },
+  "pId": "p855",
+  "busno": "ap16Ay2102",
+  "pname": "revathi",
+  "age": 20,
+  "gender": "female",
+  "phno": "9184848801",
+  "address": "mudenepalli",
+  "source": "chirala",
+  "destination": "amaravathi",
+  "ticketcost": 9000,
+  "seatnumber": "sp07"
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6777795fabeee5e0c0b7f3db"
+  },
+  "rId": "r554",
+  "busId": "b887",
+  "source": "machilipatnam",
+  "destination": "hyderabad",
+  "pId": "p880",
+  "resdate": "13/3/2022",
+  "travellingdate": "16/3/2022",
+  "ticketnumber": "tap643",
+  "seatnumber": "sl123"
+},
+{
+  "_id": {
+    "$oid": "6777795fabeee5e0c0b7f3dc"
+  },
+  "rId": "r55",
+  "busId": "b87",
+  "source": "vizag",
+  "destination": "kurnool",
+  "pId": "p80",
+  "resdate": "13/3/2023",
+  "travellingdate": "14/3/2023",
+  "ticketnumber": "tasp143",
+  "seatnumber": "sl30"
+},
+{
+  "_id": {
+    "$oid": "6777795fabeee5e0c0b7f3dd"
+  },
+  "rId": "r904",
+  "busId": "b807",
+  "source": "vijayawada",
+  "destination": "hyderabad",
+  "pId": "p890",
+  "resdate": "10/12/2022",
+  "travellingdate": "11/12/2022",
+  "ticketnumber": "tsp643",
+  "seatnumber": "sl023"
+}]

@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6777789babeee5e0c0b7f3d5"
+  },
+  "busId": "b998",
+  "busno": "Ap23Ay5464",
+  "seats": "76",
+  "depocity": "machilipatnam",
+  "driverId": "d887",
+  "to": "nellore",
+  "from": "machilipatnam"
+},
+{
+  "_id": {
+    "$oid": "6777789babeee5e0c0b7f3d6"
+  },
+  "busId": "b065",
+  "busno": "Ap16Ay9866",
+  "seats": "77",
+  "depocity": "machilipatnam",
+  "driverId": "d085",
+  "to": "hyderabad",
+  "from": "machilipatnam"
+},
+{
+  "_id": {
+    "$oid": "6777789babeee5e0c0b7f3d7"
+  },
+  "busId": "b99",
+  "busno": "Ap13Ay8876",
+  "seats": "90",
+  "depocity": "machilipatnam",
+  "driverId": "d097",
+  "to": "vijayawada",
+  "from": "machilipatnam"
+}]
